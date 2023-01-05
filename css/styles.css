@@ -95,7 +95,7 @@ img {
   }
   /*----------------acquaintance------------*/
   .acquaintance{
-    max-width: 1600px;
+    /*max-width: 1600px;*/
     background-color:var(--title-text-color);
     text-align: center;
     padding-top: 192px;
