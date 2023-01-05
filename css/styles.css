@@ -107,7 +107,7 @@ img {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    justify-content: center;
+    /*justify-content: center;*/
   }
   .list{
     display: flex;
